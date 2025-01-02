@@ -1,0 +1,27 @@
+{
+    "HomePage": {
+      "title": "สวัสดีชาวโลก!",
+      "about": "ไปที่หน้าข้อมูล"
+    },
+    "GamesPage": {
+      "heading": "เกม GTT",
+      "subheading": "นี่คือหน้าเกม GTT"
+    },
+    "AboutPage": {
+      "heading": "เกี่ยวกับ GTT",
+      "subheading": "นี่คือหน้าเกี่ยวกับ GTT"
+    },
+    "ClientPage": {
+      "heading": "ลูกค้า GTT",
+      "subheading": "นี่คือหน้าลูกค้า GTT"
+    },
+    "ContactPage": {
+      "heading": "ติดต่อ GTT",
+      "subheading": "นี่คือหน้าติดต่อ GTT"
+    },
+    "GameTypesComponent": {
+      "heading": "ส่วนประเภทเกม",
+      "subheading": "นี่คือส่วนประเภทเกม"
+    }
+  }
+  

@@ -1,0 +1,26 @@
+{
+  "HomePage": {
+    "title": "你好，世界！",
+    "about": "前往关于页面"
+  },
+  "GamesPage": {
+    "heading": "GTT 游戏",
+    "subheading": "这是 GTT 游戏页面"
+  },
+  "AboutPage": {
+    "heading": "关于 GTT",
+    "subheading": "这是 GTT 的关于页面"
+  },
+  "ClientPage": {
+    "heading": "GTT 客户",
+    "subheading": "这是 GTT 客户页面"
+  },
+  "ContactPage": {
+    "heading": "GTT 联系",
+    "subheading": "这是 GTT 联系页面"
+  },
+  "GameTypesComponent": {
+    "heading": "游戏类型部分",
+    "subheading": "这是游戏类型部分"
+  }
+}

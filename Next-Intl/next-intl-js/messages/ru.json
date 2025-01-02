@@ -1,0 +1,26 @@
+{
+  "HomePage": {
+    "title": "Привет, мир!",
+    "about": "Перейти на страницу о нас"
+  },
+  "GamesPage": {
+    "heading": "Игры GTT",
+    "subheading": "Это страница игр GTT"
+  },
+  "AboutPage": {
+    "heading": "О GTT",
+    "subheading": "Это страница о GTT"
+  },
+  "ClientPage": {
+    "heading": "Клиенты GTT",
+    "subheading": "Это страница клиентов GTT"
+  },
+  "ContactPage": {
+    "heading": "Контакт GTT",
+    "subheading": "Это страница контактов GTT"
+  },
+  "GameTypesComponent": {
+    "heading": "Раздел Типы Игр",
+    "subheading": "Это раздел Типы Игр"
+  }
+}

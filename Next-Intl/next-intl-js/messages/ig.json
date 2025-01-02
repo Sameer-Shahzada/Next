@@ -1,0 +1,26 @@
+{
+  "HomePage": {
+    "title": "Ndewo ụwa!",
+    "about": "Gaa na ibe gbasara"
+  },
+  "GamesPage": {
+    "heading": "Egwuregwu GTT",
+    "subheading": "Nke a bụ ibe egwuregwu GTT"
+  },
+  "AboutPage": {
+    "heading": "GTT Banyere",
+    "subheading": "Nke a bụ ibe gbasara GTT"
+  },
+  "ClientPage": {
+    "heading": "Ahịa GTT",
+    "subheading": "Nke a bụ ibe ndị ahịa GTT"
+  },
+  "ContactPage": {
+    "heading": "Kpọtụrụ GTT",
+    "subheading": "Nke a bụ ibe kpọtụrụ GTT"
+  },
+  "GameTypesComponent": {
+    "heading": "Ngalaba Ụdị Egwuregwu",
+    "subheading": "Nke a bụ ngalaba Ụdị Egwuregwu"
+  }
+}

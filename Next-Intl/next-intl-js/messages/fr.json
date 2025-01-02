@@ -1,0 +1,26 @@
+{
+  "HomePage": {
+    "title": "Bonjour le monde!",
+    "about": "Aller à la page À propos"
+  },
+  "GamesPage": {
+    "heading": "Jeux GTT",
+    "subheading": "Ceci est la page des jeux GTT"
+  },
+  "AboutPage": {
+    "heading": "À propos de GTT",
+    "subheading": "Ceci est la page À propos de GTT"
+  },
+  "ClientPage": {
+    "heading": "Clients GTT",
+    "subheading": "Ceci est la page des clients de GTT"
+  },
+  "ContactPage": {
+    "heading": "Contact GTT",
+    "subheading": "Ceci est la page de contact de GTT"
+  },
+  "GameTypesComponent": {
+    "heading": "Section Types de Jeux",
+    "subheading": "Ceci est la section des Types de Jeux"
+  }
+}

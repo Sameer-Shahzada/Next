@@ -1,0 +1,26 @@
+{
+  "HomePage": {
+    "title": "Xin chào thế giới!",
+    "about": "Đi đến trang giới thiệu"
+  },
+  "GamesPage": {
+    "heading": "Trò chơi GTT",
+    "subheading": "Đây là trang Trò chơi GTT"
+  },
+  "AboutPage": {
+    "heading": "Giới thiệu GTT",
+    "subheading": "Đây là trang Giới thiệu GTT"
+  },
+  "ClientPage": {
+    "heading": "Khách hàng GTT",
+    "subheading": "Đây là trang Khách hàng GTT"
+  },
+  "ContactPage": {
+    "heading": "Liên hệ GTT",
+    "subheading": "Đây là trang Liên hệ GTT"
+  },
+  "GameTypesComponent": {
+    "heading": "Phần Loại Trò Chơi",
+    "subheading": "Đây là phần Loại Trò Chơi"
+  }
+}

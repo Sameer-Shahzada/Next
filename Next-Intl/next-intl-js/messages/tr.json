@@ -1,0 +1,26 @@
+{
+  "HomePage": {
+    "title": "Merhaba dünya!",
+    "about": "Hakkında sayfasına git"
+  },
+  "GamesPage": {
+    "heading": "GTT Oyunları",
+    "subheading": "Bu GTT Oyunları sayfasıdır"
+  },
+  "AboutPage": {
+    "heading": "GTT Hakkında",
+    "subheading": "Bu GTT Hakkında sayfasıdır"
+  },
+  "ClientPage": {
+    "heading": "GTT Müşterileri",
+    "subheading": "Bu GTT Müşterileri sayfasıdır"
+  },
+  "ContactPage": {
+    "heading": "GTT İletişim",
+    "subheading": "Bu GTT İletişim sayfasıdır"
+  },
+  "GameTypesComponent": {
+    "heading": "Oyun Türleri Bölümü",
+    "subheading": "Bu, Oyun Türleri Bölümüdür"
+  }
+}

@@ -1,0 +1,27 @@
+{
+    "HomePage": {
+      "title": "Halo dunia!",
+      "about": "Pergi ke halaman tentang"
+    },
+    "GamesPage": {
+      "heading": "Permainan GTT",
+      "subheading": "Ini adalah halaman permainan GTT"
+    },
+    "AboutPage": {
+      "heading": "Tentang GTT",
+      "subheading": "Ini adalah halaman tentang GTT"
+    },
+    "ClientPage": {
+      "heading": "Klien GTT",
+      "subheading": "Ini adalah halaman klien GTT"
+    },
+    "ContactPage": {
+      "heading": "Kontak GTT",
+      "subheading": "Ini adalah halaman kontak GTT"
+    },
+    "GameTypesComponent": {
+      "heading": "Bagian Jenis Permainan",
+      "subheading": "Ini adalah Bagian Jenis Permainan"
+    }
+  }
+  

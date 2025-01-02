@@ -1,0 +1,26 @@
+{
+  "HomePage": {
+    "title": "नमस्ते दुनिया!",
+    "about": "के बारे में पृष्ठ पर जाएं"
+  },
+  "GamesPage": {
+    "heading": "GTT खेल",
+    "subheading": "यह GTT खेल पृष्ठ है"
+  },
+  "AboutPage": {
+    "heading": "GTT के बारे में",
+    "subheading": "यह GTT के बारे में पृष्ठ है"
+  },
+  "ClientPage": {
+    "heading": "GTT ग्राहक",
+    "subheading": "यह GTT ग्राहक पृष्ठ है"
+  },
+  "ContactPage": {
+    "heading": "GTT संपर्क",
+    "subheading": "यह GTT संपर्क पृष्ठ है"
+  },
+  "GameTypesComponent": {
+    "heading": "गेम प्रकार अनुभाग",
+    "subheading": "यह गेम प्रकार अनुभाग है"
+  }
+}
